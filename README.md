@@ -6,3 +6,4 @@ Join our community at: https://poolpi.org
 Contract: TVETRYrRHQuNkyPKTppzPEZ5AqvbdpqaUw
 Name: PiNetwork(Pi)
 Precision: 7
+Exchange coins at: https://justswap.org/?lang=en-US#/scan/detail/trx/TVETRYrRHQuNkyPKTppzPEZ5AqvbdpqaUw
